@@ -1,3 +1,35 @@
+React component that fetches data from the JSONPlaceholder API and renders a list of users. The component first initializes its state with an empty array. Then, in the componentDidMount() lifecycle method, it makes a request to the JSONPlaceholder API and calls the setState() method to update its state with the data it receives. Finally, in the render() method, it loops over the array and renders an h1 element for each users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
